@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "7b508b99437dff5d4cc66f32",
+  "owner": "qkhysdcbd",
+  "repo": "page-b78e794d42bf539e259ffe9a",
+  "title": "机场推荐",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b78e794d42bf539e259ffe9a",
+      "a": "机场推荐",
+      "b": "",
+      "entity": "机场推荐",
+      "brand": "机场推荐",
+      "separator": "",
+      "path": "index.html",
+      "hash": "10cb5af06d51f483ee8c74f1034182d5d0dafc16240a97d34b6d551643f3780f",
+      "content": {
+        "keyword1": "机场推荐",
+        "keyword2": "",
+        "primary_entity": "机场推荐",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "机场推荐为您提供专业VPN梯子网络加速服务，多种流量套餐可选。官网客户端下载，配置流程详解，助您解锁流媒体与游戏加速。",
+          "AI_DESCRIPTION": "机场推荐为您提供专业VPN梯子网络加速服务，多种流量套餐可选。官网客户端下载，配置流程详解，助您解锁流媒体与游戏加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif;\n            background: linear-gradient(to bottom, #001F3F, #003366);\n            color: #e0f7ff;\n            margin: 0;\n            padding: 0;\n            line-height: 1.6;\n            max-width: 900px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n        header {\n            text-align: center;\n            padding: 40px 20px;\n            background: rgba(0, 31, 63, 0.8);\n            border-radius: 10px;\n            margin-bottom: 30px;\n        }\n        h1 {\n            font-size: 2.5em;\n            color: #00BFFF;\n            margin: 0;\n        }\n        .subtitle {\n            font-size: 1.2em;\n            color: #a0d8ff;\n            margin-top: 10px;\n        }\n        section {\n            margin-bottom: 40px;\n            background: rgba(255,255,255,0.05);\n            padding: 25px;\n            border-radius: 8px;\n        }\n        h2 {\n            color: #00BFFF;\n            border-bottom: 2px solid #00BFFF;\n            padding-bottom: 10px;\n            font-size: 1.8em;\n        }\n        h3 {\n            color: #a0d8ff;\n            font-size: 1.4em;\n        }\n        ul {\n            padding-left: 20px;\n        }\n        li {\n            margin-bottom: 10px;\n        }\n        .plan {\n            background: rgba(0, 31, 63, 0.6);\n            border: 2px solid #00BFFF;\n            border-radius: 8px;\n            padding: 20px;\n            margin-bottom: 20px;\n        }\n        .plan.featured {\n            border-color: #ffcc00;\n            background: rgba(255, 204, 0, 0.1);\n        }\n        .plan h3 {\n            color: #ffcc00;\n        }\n        .faq {\n            margin-bottom: 15px;\n        }\n        summary {\n            font-weight: bold;\n            cursor: pointer;\n            color: #00BFFF;\n            font-size: 1.1em;\n        }\n        details {\n            margin-bottom: 10px;\n            background: rgba(255,255,255,0.05);\n            padding: 15px;\n            border-radius: 6px;\n        }\n        footer {\n            text-align: center;\n            padding: 20px;\n            background: rgba(0, 31, 63, 0.8);\n            border-radius: 8px;\n        }\n        .btn {\n            display: inline-block;\n            background: #00BFFF;\n            color: #001F3F;\n            padding: 12px 24px;\n            text-decoration: none;\n            border-radius: 4px;\n            font-weight: bold;\n        }\n    </style>\n\n\n    <header>\n        <h1>机场推荐</h1>\n        <p class=\"subtitle\">优质VPN梯子加速器 - 客户端下载与配置指南</p>\n    </header>\n    <main>\n        <section>\n            <h2>品牌简介</h2>\n            <p>机场推荐是一家专注于提供高质量VPN/梯子网络加速服务的专业平台。我们致力于帮助用户畅享更快的上网速度，解锁全球内容，保护您的在线隐私。</p>\n            <p>无论您是个人用户还是企业团队，我们都提供多种套餐选择，满足不同需求。</p>\n        </section>\n        <section>\n            <h2>使用场景</h2>\n            <p>机场推荐适用于多种场景：</p>\n            <ul>\n                <li>流媒体解锁：Netflix、Disney+、YouTube 等平台内容解锁</li>\n                <li>游戏加速：支持IPLC专线，优化网络延迟，适合在线游戏</li>\n                <li>日常上网：提供稳定节点池，保障高速访问</li>\n                <li>团队协作：支持多设备在线，适合企业远程办公</li>\n            </ul>\n        </section>\n        <section>\n            <h2>配置流程</h2>\n            <h3>第一步：选择套餐</h3>\n            <p>根据您的需求选择基础版、旗舰版或团队版。</p>\n            <h3>第二步：完成支付</h3>\n            <p>支持多种支付方式，快速到账。</p>\n            <h3>第三步：获取订阅链接</h3>\n            <p>支付成功后，您将收到订阅链接和账号信息。</p>\n            <h3>第四步：下载客户端</h3>\n            <p>前往官网下载官方客户端，支持Windows、macOS、iOS、Android。</p>\n            <h3>第五步：导入配置</h3>\n            <p>在客户端中导入订阅链接，连接到最佳节点。</p>\n        </section>\n        <section>\n            <h2>套餐选择</h2>\n            <div class=\"plan\">\n                <h3>基础版</h3>\n                <p>¥15/月 | 按年付仅需 ¥150/年</p>\n                <ul>\n                    <li>每月 100GB 极速流量</li>\n                    <li>支持 3 台设备同时在线</li>\n                    <li>解锁基础流媒体</li>\n                    <li>普通线路节点池</li>\n                </ul>\n                <a href=\"#\" class=\"btn\">了解详情</a>\n            </div>\n            <div class=\"plan featured\">\n                <h3>旗舰版 <span>推荐</span></h3>\n                <p>¥35/月 | 按年付仅需 ¥350/年</p>\n                <ul>\n                    <li>每月 300GB 极速流量</li>\n                    <li>支持 5 台设备同时在线</li>\n                    <li>全节点原生流媒体解锁</li>\n                    <li>IPLC 专线游戏加速优化</li>\n                    <li>7x24 优先工单支持</li>\n                </ul>\n                <a href=\"#\" class=\"btn\">立即订阅</a>\n            </div>\n            <div class=\"plan\">\n                <h3>团队版</h3>\n                <p>¥85/月 | 按年付仅需 ¥850/年</p>\n                <ul>\n                    <li>每月 1000GB 极速流量</li>\n                    <li>支持 20 台设备同时在线</li>\n                    <li>VIP 专属高带宽节点</li>\n                    <li>支持企业定制路由</li>\n                    <li>专属客户经理服务</li>\n                </ul>\n                <a href=\"#\" class=\"btn\">了解详情</a>\n            </div>\n        </section>\n        <section>\n            <h2>常见问题 FAQ</h2>\n            <div class=\"faq\">\n                <details>\n                    <summary>什么是机场？</summary>\n                    <p>机场是指VPN代理服务提供商，在社区中称为“机场”。我们提供高质量的节点和稳定服务，帮助用户访问被屏蔽的内容。</p>\n                </details>\n                <details>\n                    <summary>如何下载官方客户端？</summary>\n                    <p>访问官网，找到客户端下载页面，下载对应操作系统版本。所有下载均来自官方渠道，确保安全。</p>\n                </details>\n                <details>\n                    <summary>基础版适合个人用户吗？</summary>\n                    <p>是的，基础版适合轻度使用，100GB流量足够日常浏览和少量流媒体。</p>\n                </details>\n                <details>\n                    <summary>旗舰版如何解锁流媒体？</summary>\n                    <p>旗舰版提供全节点原生流媒体解锁，支持Netflix、YouTube等主流平台，无需额外工具。</p>\n                </details>\n                <details>\n                    <summary>团队版的服务优势是什么？</summary>\n                    <p>团队版提供VIP专属节点、企业定制路由和专属客户经理，适合大型团队使用。</p>\n                </details>\n                <details>\n                    <summary>如何配置节点？</summary>\n                    <p>在客户端中导入订阅后，选择最佳节点即可连接。支持一键切换节点。</p>\n                </details>\n            </div>\n        </section>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n    <footer>\n        <p>© 机场推荐 2024. 所有权利保留。</p>\n        <p>官方下载：<a href=\"#\" class=\"btn\">客户端下载</a></p>\n        <p>友情链接：<a href=\"#\">机场列表</a> | <a href=\"#\">订阅指南</a></p>\n    </footer>\n\n",
+          "hash": "33c02186858ff7092f5b3733055d83cc3e20a6eb36555f38b9862789e964073c",
+          "seo": {
+            "title": "机场推荐 - 最佳VPN加速器与客户端下载",
+            "keywords": "机场推荐,vpn,梯子,机场订阅,客户端下载,vpn加速器",
+            "description": "机场推荐为您提供专业VPN梯子网络加速服务，多种流量套餐可选。官网客户端下载，配置流程详解，助您解锁流媒体与游戏加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "4819s0.cn",
+    "host": "p-7676b0e669.4819s0.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "5364b58ec74f0fb5c90ba64bd941f6e82090079a336f722a4d1d5b37ed965c39",
+    "sitemap.xml": "ea1cd3856bd33cfe46662c79227ef265a53c821685f7514af6b39c616c69adad",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "818ead5349556fcccdcdc0daf0d9c4fb2570ba7f76d0ff97c35a607adc7b3521",
+    "robots.txt": "0f4cdeb0640d2d52309bacb30fee28827f7b4386037fd8836a98771f14bcc7b7",
+    "74240cb0dac2062664edc7130853c28a.txt": "858439872bd1b7fd58a1cd8ea20d7448f252deb2b1d113d7ba85653b71175f50"
+  },
+  "revision": "561227c50e671855c06cbc0dd1b974858ea0a48c65f288c82b6822f789d7c07e"
+}
